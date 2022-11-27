@@ -1,17 +1,3 @@
 mmdetection
 Product
-weights copy/all.tar
-weights copy/model.pt
-weights copy/model_state_dict.pt
-weights test_01/all.tar
-weights test_01/model.pt
-weights test_01/model_state_dict.pt
-weights test_02/all.tar
-weights test_02/model.pt
-weights test_02/model_state_dict.pt
-weights test_03/all.tar
-weights test_03/model.pt
-weights test_03/model_state_dict.pt
-weights_test_00/all.tar
-weights_test_00/model.pt
-weights_test_00/model_state_dict.pt
+weights*
